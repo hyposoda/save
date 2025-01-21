@@ -1,4 +1,4 @@
-<mxGraphModel dx="3127" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+<mxGraphModel dx="2412" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
   <root>
     <mxCell id="0" />
     <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="ccFABopMqbIgBS7_1jks-8" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;健保資料庫&lt;/span&gt;&lt;/div&gt;&lt;div&gt;CD門診檔&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-      <mxGeometry x="-840" y="21" width="130" height="95" as="geometry" />
+      <mxGeometry x="-840" y="71" width="130" height="95" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccFABopMqbIgBS7_1jks-10" target="ccFABopMqbIgBS7_1jks-18" edge="1">
       <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccFABopMqbIgBS7_1jks-21" target="ccFABopMqbIgBS7_1jks-22" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
-    <mxCell id="ccFABopMqbIgBS7_1jks-21" value="&lt;br&gt;&lt;div&gt;&lt;div&gt;健保資料庫&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;重大傷病檔&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;H_NHI_CATAS&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+    <mxCell id="ccFABopMqbIgBS7_1jks-21" value="&lt;br&gt;&lt;div&gt;&lt;div&gt;健保資料庫&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;重大傷病檔&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
       <mxGeometry x="-840" y="562" width="130" height="95" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ccFABopMqbIgBS7_1jks-22" target="ciu4FvTYWNIpz7YS5NX3-109" edge="1">
@@ -44,17 +44,22 @@
     <mxCell id="ccFABopMqbIgBS7_1jks-22" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;設定腎衰竭&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;(ESRD)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
       <mxGeometry x="-665" y="579.5" width="195" height="60" as="geometry" />
     </mxCell>
-    <mxCell id="ccFABopMqbIgBS7_1jks-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ccFABopMqbIgBS7_1jks-23" target="ccFABopMqbIgBS7_1jks-24" edge="1">
+    <mxCell id="74BORgZHTZT5-mNW4bi9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ccFABopMqbIgBS7_1jks-23" target="ccFABopMqbIgBS7_1jks-24">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="ccFABopMqbIgBS7_1jks-23" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;健保資料庫&lt;/span&gt;&lt;/div&gt;&lt;div&gt;DD住院檔&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-      <mxGeometry x="-840" y="139.5" width="130" height="95" as="geometry" />
+      <mxGeometry x="-840" y="189.5" width="130" height="95" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ccFABopMqbIgBS7_1jks-24" target="ciu4FvTYWNIpz7YS5NX3-109" edge="1">
-      <mxGeometry relative="1" as="geometry" />
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-410" y="181" />
+          <mxPoint x="-410" y="361" />
+        </Array>
+      </mxGeometry>
     </mxCell>
     <mxCell id="ccFABopMqbIgBS7_1jks-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. 刪除&lt;/span&gt;在收案前180天發生的筆數&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;2. 設定：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;中風(Stroke)&lt;/div&gt;&lt;div&gt;心肌梗塞(AMI)&lt;/div&gt;&lt;div&gt;心臟驟停(Cardiac arrest)&lt;/div&gt;&lt;div&gt;心因性休克(Cardiogenic shock)&lt;/div&gt;&lt;div&gt;心臟衰竭(CHF)&lt;/div&gt;&lt;div&gt;心房顫動(AF)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" parent="1" vertex="1">
-      <mxGeometry x="-660" y="90" width="190" height="190" as="geometry" />
+      <mxGeometry x="-656" y="114" width="190" height="140" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccFABopMqbIgBS7_1jks-32" target="ccFABopMqbIgBS7_1jks-33" edge="1">
       <mxGeometry relative="1" as="geometry" />
@@ -71,7 +76,7 @@
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ccFABopMqbIgBS7_1jks-47" target="ciu4FvTYWNIpz7YS5NX3-109" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
-    <mxCell id="ccFABopMqbIgBS7_1jks-47" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;攜入檔&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;PA資料庫&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(N=4113)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+    <mxCell id="ccFABopMqbIgBS7_1jks-47" value="&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;攜入檔&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;PA資料庫&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(N=4113)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
       <mxGeometry x="-355" y="17" width="435" height="162" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ccFABopMqbIgBS7_1jks-63" target="ciu4FvTYWNIpz7YS5NX3-161" edge="1">
@@ -94,7 +99,7 @@
     <mxCell id="ccFABopMqbIgBS7_1jks-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccFABopMqbIgBS7_1jks-75" target="ccFABopMqbIgBS7_1jks-72" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
-    <mxCell id="ccFABopMqbIgBS7_1jks-75" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;攜入檔&lt;/span&gt;&lt;/div&gt;&lt;div&gt;藥品檔&lt;/div&gt;&lt;div&gt;(...code\Drug\HTN\)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+    <mxCell id="ccFABopMqbIgBS7_1jks-75" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;攜入檔&lt;/span&gt;&lt;/div&gt;&lt;div&gt;藥品檔&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
       <mxGeometry x="-437" y="751" width="130" height="95" as="geometry" />
     </mxCell>
     <mxCell id="VoHb1NudrQJA716LlmVE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ccFABopMqbIgBS7_1jks-97" target="VoHb1NudrQJA716LlmVE-2" edge="1">
@@ -131,8 +136,8 @@
         <mxPoint x="-80" y="-3" as="offset" />
       </mxGeometry>
     </mxCell>
-    <mxCell id="RrgbvRi4uORZ6m7NdEk9-4" value="comorbidities" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-      <mxGeometry x="320" y="1065" width="120" height="60" as="geometry" />
+    <mxCell id="RrgbvRi4uORZ6m7NdEk9-4" value="COMORBIDITIES" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+      <mxGeometry x="320" y="1065" width="140" height="60" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ccFABopMqbIgBS7_1jks-97" target="RrgbvRi4uORZ6m7NdEk9-1" edge="1">
       <mxGeometry relative="1" as="geometry">
