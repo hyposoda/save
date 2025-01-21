@@ -1,18 +1,18 @@
-<mxGraphModel dx="2412" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+<mxGraphModel dx="2162" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
   <root>
     <mxCell id="0" />
     <mxCell id="1" parent="0" />
     <mxCell id="74BORgZHTZT5-mNW4bi9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-      <mxGeometry x="-767" y="2172" width="1530" height="365" as="geometry" />
+      <mxGeometry x="-767" y="1826" width="1530" height="365" as="geometry" />
     </mxCell>
     <mxCell id="74BORgZHTZT5-mNW4bi9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-      <mxGeometry x="410" y="2187" width="300" height="230" as="geometry" />
+      <mxGeometry x="410" y="1841" width="300" height="230" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-6" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="-706" y="2187" width="273" height="270" as="geometry" />
+      <mxGeometry x="-706" y="1841" width="273" height="270" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-182" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="-392" y="2187" width="275" height="234" as="geometry" />
+      <mxGeometry x="-392" y="1841" width="275" height="234" as="geometry" />
     </mxCell>
     <mxCell id="ccFABopMqbIgBS7_1jks-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccFABopMqbIgBS7_1jks-8" target="ccFABopMqbIgBS7_1jks-24" edge="1">
       <mxGeometry relative="1" as="geometry" />
@@ -79,55 +79,32 @@
     <mxCell id="ccFABopMqbIgBS7_1jks-47" value="&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;攜入檔&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;PA資料庫&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(N=4113)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
       <mxGeometry x="-355" y="17" width="435" height="162" as="geometry" />
     </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ccFABopMqbIgBS7_1jks-63" target="ciu4FvTYWNIpz7YS5NX3-161" edge="1">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="ccFABopMqbIgBS7_1jks-63" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;健保資料庫&lt;/span&gt;&lt;/div&gt;&lt;div&gt;OO門診醫令檔&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-      <mxGeometry x="310" y="392.5" width="130" height="95" as="geometry" />
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ccFABopMqbIgBS7_1jks-72" target="ciu4FvTYWNIpz7YS5NX3-160" edge="1">
-      <mxGeometry relative="1" as="geometry">
-        <Array as="points">
-          <mxPoint x="-216" y="871" />
-          <mxPoint x="-3" y="871" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="ccFABopMqbIgBS7_1jks-72" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;設定&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;等效劑量&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" parent="1" vertex="1">
-      <mxGeometry x="-273" y="757.25" width="113" height="83.75" as="geometry" />
-    </mxCell>
-    <mxCell id="ccFABopMqbIgBS7_1jks-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccFABopMqbIgBS7_1jks-75" target="ccFABopMqbIgBS7_1jks-72" edge="1">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="ccFABopMqbIgBS7_1jks-75" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;攜入檔&lt;/span&gt;&lt;/div&gt;&lt;div&gt;藥品檔&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-      <mxGeometry x="-437" y="751" width="130" height="95" as="geometry" />
-    </mxCell>
     <mxCell id="VoHb1NudrQJA716LlmVE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ccFABopMqbIgBS7_1jks-97" target="VoHb1NudrQJA716LlmVE-2" edge="1">
       <mxGeometry relative="1" as="geometry">
         <Array as="points">
-          <mxPoint x="-3" y="1191" />
-          <mxPoint x="160" y="1191" />
-          <mxPoint x="160" y="1261" />
-          <mxPoint x="-1" y="1261" />
+          <mxPoint x="-3" y="845" />
+          <mxPoint x="160" y="845" />
+          <mxPoint x="160" y="915" />
+          <mxPoint x="-1" y="915" />
         </Array>
       </mxGeometry>
     </mxCell>
     <mxCell id="ccFABopMqbIgBS7_1jks-97" value="BGW1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-      <mxGeometry x="-53" y="1070" width="100" height="50" as="geometry" />
+      <mxGeometry x="-53" y="724" width="100" height="50" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RrgbvRi4uORZ6m7NdEk9-1" target="RrgbvRi4uORZ6m7NdEk9-4" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-1" value="選取收案日&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;前180天內&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;門診三次、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;住院一次的筆數，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;計算Charlson Comorbidity Index (CCI)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" parent="1" vertex="1">
-      <mxGeometry x="101" y="1065" width="188" height="60" as="geometry" />
+      <mxGeometry x="101" y="719" width="188" height="60" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RrgbvRi4uORZ6m7NdEk9-4" target="VoHb1NudrQJA716LlmVE-2" edge="1">
       <mxGeometry relative="1" as="geometry">
         <Array as="points">
-          <mxPoint x="380" y="1191" />
-          <mxPoint x="160" y="1191" />
-          <mxPoint x="160" y="1261" />
-          <mxPoint x="-1" y="1261" />
+          <mxPoint x="380" y="845" />
+          <mxPoint x="160" y="845" />
+          <mxPoint x="160" y="915" />
+          <mxPoint x="-1" y="915" />
         </Array>
       </mxGeometry>
     </mxCell>
@@ -137,47 +114,47 @@
       </mxGeometry>
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-4" value="COMORBIDITIES" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-      <mxGeometry x="320" y="1065" width="140" height="60" as="geometry" />
+      <mxGeometry x="320" y="719" width="140" height="60" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ccFABopMqbIgBS7_1jks-97" target="RrgbvRi4uORZ6m7NdEk9-1" edge="1">
       <mxGeometry relative="1" as="geometry">
-        <mxPoint x="367" y="1095" as="targetPoint" />
+        <mxPoint x="367" y="749" as="targetPoint" />
       </mxGeometry>
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="-82" y="2187" width="466" height="331" as="geometry" />
+      <mxGeometry x="-82" y="1841" width="466" height="331" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VoHb1NudrQJA716LlmVE-2" target="RrgbvRi4uORZ6m7NdEk9-34" edge="1">
       <mxGeometry relative="1" as="geometry">
-        <mxPoint x="-1" y="1688" as="sourcePoint" />
+        <mxPoint x="-1" y="1342" as="sourcePoint" />
       </mxGeometry>
     </mxCell>
     <mxCell id="VoHb1NudrQJA716LlmVE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RrgbvRi4uORZ6m7NdEk9-19" target="VoHb1NudrQJA716LlmVE-8" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
-    <mxCell id="RrgbvRi4uORZ6m7NdEk9-19" value="設定outcome&lt;br&gt;outcome1：中風+心房顫動+心衰+心肌梗塞+心臟繞道術&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(outcome2：中風+心房顫動+心衰+心肌梗塞+&lt;/span&gt;心臟繞道術&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;腎衰竭+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;outcome3：中風+心肌梗塞+心臟繞道術+死亡&lt;br&gt;outcome4：中風+心房顫動+心肌梗塞+心臟繞道術+死亡&lt;br&gt;outcome5：中風+心衰+心肌梗塞+心臟繞道術+死亡&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-      <mxGeometry x="-206" y="1557" width="410" height="110" as="geometry" />
+    <mxCell id="RrgbvRi4uORZ6m7NdEk9-19" value="設定outcome&lt;br&gt;outcome1：中風+心房顫動+心衰+心肌梗塞+心臟繞道術&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;outcome2：中風+心房顫動+心衰+心肌梗塞+&lt;/span&gt;心臟繞道術&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;腎衰竭+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡&lt;/span&gt;&lt;/div&gt;&lt;div&gt;outcome3：中風+心肌梗塞+心臟繞道術+死亡&lt;br&gt;outcome4：中風+心房顫動+心肌梗塞+心臟繞道術+死亡&lt;br&gt;outcome5：中風+心衰+心肌梗塞+心臟繞道術+死亡&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+      <mxGeometry x="-206" y="1211" width="410" height="110" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RrgbvRi4uORZ6m7NdEk9-23" target="RrgbvRi4uORZ6m7NdEk9-31" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
       <mxGeometry relative="1" as="geometry">
-        <mxPoint x="-1.0000000000009095" y="1909" as="sourcePoint" />
-        <mxPoint x="-279" y="1961" as="targetPoint" />
+        <mxPoint x="-1.0000000000009095" y="1563" as="sourcePoint" />
+        <mxPoint x="-279" y="1615" as="targetPoint" />
         <Array as="points">
-          <mxPoint x="-1" y="1938" />
-          <mxPoint x="-279" y="1938" />
+          <mxPoint x="-1" y="1592" />
+          <mxPoint x="-279" y="1592" />
         </Array>
       </mxGeometry>
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="VoHb1NudrQJA716LlmVE-16" edge="1">
       <mxGeometry relative="1" as="geometry">
-        <mxPoint x="-1.0000000000009095" y="1919" as="sourcePoint" />
-        <mxPoint x="796" y="1971" as="targetPoint" />
+        <mxPoint x="-1.0000000000009095" y="1573" as="sourcePoint" />
+        <mxPoint x="796" y="1625" as="targetPoint" />
         <Array as="points">
-          <mxPoint x="-1" y="1938" />
-          <mxPoint x="564" y="1938" />
+          <mxPoint x="-1" y="1592" />
+          <mxPoint x="564" y="1592" />
         </Array>
       </mxGeometry>
     </mxCell>
@@ -188,203 +165,139 @@
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-23" value="&lt;div style=&quot;&quot;&gt;填補缺失值為中位數&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BMI&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;缺失&lt;/span&gt;&lt;span style=&quot;&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;填補為 25.325&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;收縮壓&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;缺失&lt;/span&gt;&lt;span style=&quot;&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;填補為 148&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;舒張壓&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;缺失&lt;/span&gt;&lt;span style=&quot;&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;填補為 88&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-      <mxGeometry x="-80" y="1822" width="158" height="90" as="geometry" />
+      <mxGeometry x="-80" y="1476" width="158" height="90" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="RrgbvRi4uORZ6m7NdEk9-25" target="RrgbvRi4uORZ6m7NdEk9-27" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-25" value="&lt;div&gt;&lt;span style=&quot;&quot; data-token-index=&quot;0&quot; class=&quot;notion-enable-hover&quot;&gt;1. 分析&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;年齡，性別，血清肌酸酐，&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;糖尿病，&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;消化道微生物相(黑；灰白)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;對&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;outcomex&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;生存時間&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的影響&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="-49.5" y="2223" width="398.5" height="64" as="geometry" />
+      <mxGeometry x="-49.5" y="1877" width="398.5" height="64" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-26" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="RrgbvRi4uORZ6m7NdEk9-27" target="RrgbvRi4uORZ6m7NdEk9-28" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-27" value="&lt;div&gt;&lt;span style=&quot;&quot; data-token-index=&quot;0&quot; class=&quot;notion-enable-hover&quot;&gt;2. 加入&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BMI，收縮壓，舒張壓：&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-token-index=&quot;0&quot; class=&quot;notion-enable-hover&quot;&gt;分析&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;年齡，性別，血清肌酸酐，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;糖尿病，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;消化道微生物相(黑&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;；&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;灰白)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-align: center;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(127, 0, 255), rgb(255, 255, 255));&quot;&gt;BMI，收縮壓，舒張壓&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;對&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;outcomex&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;生存時間&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的影響&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="-50.25" y="2317" width="404.25" height="64" as="geometry" />
+      <mxGeometry x="-50.25" y="1971" width="404.25" height="64" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-28" value="&lt;div&gt;&lt;span style=&quot;&quot; data-token-index=&quot;0&quot; class=&quot;notion-enable-hover&quot;&gt;3. 加入&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;腎絲球過濾率：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-token-index=&quot;0&quot; class=&quot;notion-enable-hover&quot;&gt;分析&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;年齡，性別，血清肌酸酐，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;糖尿病，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;消化道微生物相(黑&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;；&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;灰白)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;BMI，收縮壓，舒張壓，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-align: center;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(127, 0, 255), rgb(255, 255, 255));&quot;&gt;腎絲球過濾率&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;對&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;outcomex&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;生存時間&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的影響&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="-49.5" y="2408" width="404.25" height="60" as="geometry" />
+      <mxGeometry x="-49.5" y="2062" width="404.25" height="60" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-29" value="&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;Cox 比例風險模型分析&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-      <mxGeometry x="-66" y="2187" width="160" height="30" as="geometry" />
+      <mxGeometry x="-66" y="1841" width="160" height="30" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-30" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; text-align: left; background-color: transparent;&quot;&gt;(對應&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left; background-color: transparent;&quot;&gt;20241219 BGW output -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; text-align: left; background-color: transparent;&quot;&gt;outcomex Cox)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-      <mxGeometry x="-60" y="2488" width="250" height="30" as="geometry" />
+      <mxGeometry x="-60" y="2142" width="250" height="30" as="geometry" />
     </mxCell>
     <mxCell id="74BORgZHTZT5-mNW4bi9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RrgbvRi4uORZ6m7NdEk9-31" target="74BORgZHTZT5-mNW4bi9-1">
       <mxGeometry relative="1" as="geometry">
         <Array as="points">
-          <mxPoint x="-561" y="2111" />
-          <mxPoint x="-2" y="2111" />
+          <mxPoint x="-561" y="1765" />
+          <mxPoint x="-2" y="1765" />
         </Array>
       </mxGeometry>
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-31" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;設定outcome1&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0，1（符合ICD-9&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;中風、心房顫動、心衰、心肌梗塞、心臟繞道術&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;刪除符合PA檔（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心房顫動&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心衰、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心肌梗塞&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項的筆數&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-      <mxGeometry x="-690" y="1961" width="258" height="79" as="geometry" />
+      <mxGeometry x="-690" y="1615" width="258" height="79" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RrgbvRi4uORZ6m7NdEk9-34" target="RrgbvRi4uORZ6m7NdEk9-19" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="RrgbvRi4uORZ6m7NdEk9-34" value="黑、灰、白分組&lt;div&gt;&lt;div&gt;microbiota：1，2，3&lt;/div&gt;&lt;div&gt;Black_Gray_White：White，Gray，Black&lt;/div&gt;&lt;div&gt;Black：0 (&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;White，Gray&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)，1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&lt;/span&gt;Black&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Black_gray：=&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0 (&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;White&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)，1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Gray，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Black&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" parent="1" vertex="1">
-      <mxGeometry x="-116" y="1433" width="230" height="80" as="geometry" />
+      <mxGeometry x="-116" y="1087" width="230" height="80" as="geometry" />
     </mxCell>
     <mxCell id="VoHb1NudrQJA716LlmVE-2" value="BGW2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-      <mxGeometry x="-63.5" y="1336" width="125" height="60" as="geometry" />
+      <mxGeometry x="-63.5" y="990" width="125" height="60" as="geometry" />
     </mxCell>
     <mxCell id="VoHb1NudrQJA716LlmVE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VoHb1NudrQJA716LlmVE-8" target="RrgbvRi4uORZ6m7NdEk9-23" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="VoHb1NudrQJA716LlmVE-8" value="&lt;div&gt;描述性統計：缺失值數量、平均值、中位數&lt;/div&gt;&lt;div&gt;變數：年齡，BMI，收縮壓，舒張壓，血清肌酸酐，醛固酮，腎素，腎絲球過濾率&lt;/div&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="-221" y="1717" width="440" height="70" as="geometry" />
+      <mxGeometry x="-221" y="1371" width="440" height="70" as="geometry" />
     </mxCell>
     <mxCell id="74BORgZHTZT5-mNW4bi9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VoHb1NudrQJA716LlmVE-13" target="74BORgZHTZT5-mNW4bi9-1">
       <mxGeometry relative="1" as="geometry">
         <Array as="points">
-          <mxPoint x="-279" y="2111" />
-          <mxPoint x="-2" y="2111" />
+          <mxPoint x="-279" y="1765" />
+          <mxPoint x="-2" y="1765" />
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="VoHb1NudrQJA716LlmVE-13" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(設定outcome2&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0，1（符合&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ICD-9&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;中風、心房顫動、心衰、心肌梗塞、心臟繞道術&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;腎衰竭&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、死亡檔&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項）)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
-      <mxGeometry x="-393" y="1961" width="228" height="80" as="geometry" />
+    <mxCell id="VoHb1NudrQJA716LlmVE-13" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;設定outcome2&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0，1（符合&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ICD-9&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;中風、心房顫動、心衰、心肌梗塞、心臟繞道術&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;腎衰竭&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、死亡檔&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;刪除符合PA檔（&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;心房顫動&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;心衰、&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;心肌梗塞&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;任何一項的筆數&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+      <mxGeometry x="-393" y="1615" width="228" height="84" as="geometry" />
     </mxCell>
     <mxCell id="74BORgZHTZT5-mNW4bi9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VoHb1NudrQJA716LlmVE-14" target="74BORgZHTZT5-mNW4bi9-1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
-    <mxCell id="VoHb1NudrQJA716LlmVE-14" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;設定outcome3&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0，1&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（符合&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ICD-9&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;中風、心肌梗塞、心臟繞道術&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡檔&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;刪除符合PA檔（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心房顫動&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的筆數&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-      <mxGeometry x="-114" y="1961" width="225" height="80" as="geometry" />
+    <mxCell id="VoHb1NudrQJA716LlmVE-14" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;設定outcome3&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0，1&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（符合&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ICD-9&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;中風、心肌梗塞、心臟繞道術&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡檔&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;刪除符合PA檔（&lt;/span&gt;心肌梗塞&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的筆數&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+      <mxGeometry x="-114" y="1615" width="225" height="80" as="geometry" />
     </mxCell>
     <mxCell id="74BORgZHTZT5-mNW4bi9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VoHb1NudrQJA716LlmVE-15" target="74BORgZHTZT5-mNW4bi9-1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="VoHb1NudrQJA716LlmVE-15" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;設定outcome4&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0，1&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（符合&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ICD-9&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;中風、心房顫動、心肌梗塞、心臟繞道術&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡檔&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;刪除符合PA檔（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心房顫動&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心肌梗塞&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項的筆數&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-      <mxGeometry x="182.12" y="1964" width="227" height="87" as="geometry" />
+      <mxGeometry x="182.12" y="1618" width="227" height="87" as="geometry" />
     </mxCell>
     <mxCell id="74BORgZHTZT5-mNW4bi9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoHb1NudrQJA716LlmVE-16" target="74BORgZHTZT5-mNW4bi9-1">
       <mxGeometry relative="1" as="geometry">
         <Array as="points">
-          <mxPoint x="564" y="2111" />
-          <mxPoint x="-2" y="2111" />
+          <mxPoint x="564" y="1765" />
+          <mxPoint x="-2" y="1765" />
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="VoHb1NudrQJA716LlmVE-16" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;設定outcome5&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0，1&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（符合&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ICD-9&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;中風、心衰、心肌梗塞、心臟繞道術&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡檔&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;刪除符合PA檔（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心房顫動&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心衰&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項的筆數&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-      <mxGeometry x="450" y="1964" width="227.88" height="100" as="geometry" />
+    <mxCell id="VoHb1NudrQJA716LlmVE-16" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;設定outcome5&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0，1&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（符合&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ICD-9&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;中風、心衰、心肌梗塞、心臟繞道術&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡檔&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;刪除符合PA檔（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心衰&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心肌梗塞&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項的筆數&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+      <mxGeometry x="450" y="1618" width="227.88" height="100" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VoHb1NudrQJA716LlmVE-19" target="ciu4FvTYWNIpz7YS5NX3-5" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="VoHb1NudrQJA716LlmVE-19" value="&lt;div&gt;1.檢查多個變數（例如死亡、中風、心房顫動、心衰、心肌梗塞、心臟繞道術、outcomex）和 &lt;span style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; font-size: 85%; padding: 0.2em 0.4em;&quot; data-token-index=&quot;9&quot; spellcheck=&quot;false&quot; class=&quot;notion-enable-hover&quot;&gt;Black_Gray_White&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;消化道微生物相&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(黑；&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(127, 0, 255), rgb(255, 255, 255));&quot;&gt;灰；白&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;之間的關聯性&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="-365" y="2219" width="220" height="68" as="geometry" />
+      <mxGeometry x="-365" y="1873" width="220" height="68" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-5" value="&lt;div&gt;2.將&lt;span style=&quot;background-color: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; font-size: 10.2px;&quot;&gt;Black_Gray_White&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;改為&lt;/span&gt;&lt;span style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; font-size: 85%; padding: 0.2em 0.4em;&quot; data-token-index=&quot;9&quot; spellcheck=&quot;false&quot; class=&quot;notion-enable-hover&quot;&gt;Black&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;看變數和&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;消化道微生物相&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(黑&lt;/span&gt;；&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(127, 0, 255), rgb(255, 255, 255));&quot;&gt;灰白&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)之間的關聯性&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="-360" y="2309" width="210" height="60" as="geometry" />
+      <mxGeometry x="-360" y="1963" width="210" height="60" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ciu4FvTYWNIpz7YS5NX3-8" target="ciu4FvTYWNIpz7YS5NX3-12" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-8" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2.加入&lt;/span&gt;&lt;span style=&quot;background-color: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; font-size: 10.2px; text-align: left;&quot;&gt;Black_Gray_White&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;來分組&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;計算&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;消化道微生物相&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;(黑；&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(127, 0, 255), rgb(255, 255, 255));&quot;&gt;灰；白&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;各組&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;變數的統計量&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="-693" y="2307" width="240" height="60" as="geometry" />
+      <mxGeometry x="-693" y="1961" width="240" height="60" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-12" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;3.將&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; font-size: 10.2px;&quot;&gt;Black_Gray_White&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;改為&lt;/span&gt;&lt;span style=&quot;text-align: left; font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; font-size: 10.2px; padding: 0.2em 0.4em;&quot; data-token-index=&quot;9&quot; spellcheck=&quot;false&quot; class=&quot;notion-enable-hover&quot;&gt;Black&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;來分組&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;計算&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;消化道微生物相&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;(黑；&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(127, 0, 255), rgb(255, 255, 255));&quot;&gt;灰白&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;)各組&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;變數&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的統計量&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="-690" y="2387" width="233" height="60" as="geometry" />
+      <mxGeometry x="-690" y="2041" width="233" height="60" as="geometry" />
     </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ciu4FvTYWNIpz7YS5NX3-109" target="ciu4FvTYWNIpz7YS5NX3-118" edge="1">
+    <mxCell id="74BORgZHTZT5-mNW4bi9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ciu4FvTYWNIpz7YS5NX3-109" target="ccFABopMqbIgBS7_1jks-97">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-109" value="1.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;黑灰白有值&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(n=427)&lt;/span&gt;&lt;div&gt;&lt;div&gt;2.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;有&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;收案日記錄&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(n=423)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3.&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;刪除&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;eGFR&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;lt;15的筆數&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(n=406)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4.&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;刪除收案日晚於2021/6/30的筆數 (n=363)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" parent="1" vertex="1">
       <mxGeometry x="-350" y="261" width="270" height="200" as="geometry" />
     </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="-175.0000000000009" y="562" as="sourcePoint" />
-        <mxPoint x="-6" y="767.25" as="targetPoint" />
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-136" value="串聯dataset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ciu4FvTYWNIpz7YS5NX3-134" vertex="1" connectable="0">
-      <mxGeometry x="0.3702" y="1" relative="1" as="geometry">
-        <mxPoint x="5" y="-95" as="offset" />
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-165" value="串聯dataset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ciu4FvTYWNIpz7YS5NX3-134" vertex="1" connectable="0">
-      <mxGeometry x="0.81" y="-2" relative="1" as="geometry">
-        <mxPoint x="-32" y="129" as="offset" />
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-118" value="BGW" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-      <mxGeometry x="-265" y="538" width="100" height="50" as="geometry" />
-    </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-125" value="串聯dataset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
       <mxGeometry x="-410.0011651122064" y="360.5000932675907" as="geometry" />
     </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ciu4FvTYWNIpz7YS5NX3-140" target="ciu4FvTYWNIpz7YS5NX3-161" edge="1">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-140" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;健保資料庫&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GD藥局檔&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-      <mxGeometry x="310" y="515.5" width="130" height="95" as="geometry" />
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ciu4FvTYWNIpz7YS5NX3-141" target="ciu4FvTYWNIpz7YS5NX3-161" edge="1">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-141" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;健保資料庫&lt;/span&gt;&lt;/div&gt;&lt;div&gt;GO藥局醫令檔&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-      <mxGeometry x="310" y="632" width="130" height="95" as="geometry" />
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-142" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ciu4FvTYWNIpz7YS5NX3-141" edge="1">
-      <mxGeometry width="50" height="50" relative="1" as="geometry">
-        <mxPoint x="375" y="663.5" as="sourcePoint" />
-        <mxPoint x="375" y="610.5" as="targetPoint" />
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-145" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ciu4FvTYWNIpz7YS5NX3-140" target="ccFABopMqbIgBS7_1jks-63" edge="1">
-      <mxGeometry width="50" height="50" relative="1" as="geometry">
-        <mxPoint x="325" y="523.5" as="sourcePoint" />
-        <mxPoint x="375" y="502.5" as="targetPoint" />
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-147" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-      <mxGeometry width="50" height="50" relative="1" as="geometry">
-        <mxPoint x="-10" y="562" as="sourcePoint" />
-        <mxPoint x="115.00000000000091" y="562.47" as="targetPoint" />
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ciu4FvTYWNIpz7YS5NX3-160" target="ccFABopMqbIgBS7_1jks-97" edge="1">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-160" value="&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;計算Defined daily dose (DDD)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-      <mxGeometry x="-112.5" y="911" width="220" height="60" as="geometry" />
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-161" value="設定高血壓相關藥物&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div&gt;設定造影劑相關藥物&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-      <mxGeometry x="112" y="533" width="120" height="60" as="geometry" />
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-183" value="&lt;span style=&quot;text-align: left;&quot;&gt;費雪精確檢定&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-      <mxGeometry x="-393" y="2187" width="90" height="30" as="geometry" />
+    <mxCell id="ciu4FvTYWNIpz7YS5NX3-183" value="&lt;span style=&quot;&quot;&gt;卡方檢定&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+      <mxGeometry x="-393" y="1841" width="90" height="30" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ciu4FvTYWNIpz7YS5NX3-184" target="ciu4FvTYWNIpz7YS5NX3-8" edge="1">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-185" value="&#xa;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;描述性統計：平均值、&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;標準差、&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;中位數&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、四分位數&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&#xa;&#xa;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-      <mxGeometry x="-710" y="2204" width="280" height="30" as="geometry" />
+      <mxGeometry x="-710" y="1858" width="280" height="30" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-184" value="&lt;span style=&quot;text-align: left;&quot;&gt;1.&amp;nbsp;&lt;/span&gt;計算&lt;span style=&quot;text-align: left;&quot;&gt;事件發生的年數、&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; background-color: transparent;&quot;&gt;CCI&lt;/span&gt;的統計量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="-693" y="2224" width="240" height="53" as="geometry" />
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ciu4FvTYWNIpz7YS5NX3-193" target="ciu4FvTYWNIpz7YS5NX3-160" edge="1">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="ciu4FvTYWNIpz7YS5NX3-193" value="HTN_all" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-      <mxGeometry x="-63.5" y="768.5" width="120" height="60" as="geometry" />
+      <mxGeometry x="-693" y="1878" width="240" height="53" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-203" value="Wilcoxon檢定&lt;div&gt;檢驗消化道微生物相的兩個類別（黑 vs 灰白)在&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;事件發生的年數、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CCI&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的分布&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;是否存在顯著差異&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="421.5" y="2287" width="269.5" height="70" as="geometry" />
+      <mxGeometry x="421.5" y="1941" width="269.5" height="70" as="geometry" />
     </mxCell>
     <mxCell id="ciu4FvTYWNIpz7YS5NX3-205" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;兩組獨立樣本t檢定&lt;/span&gt;&lt;/div&gt;檢驗消化道微生物相的兩個類別（&lt;span style=&quot;&quot;&gt;黑 vs 灰白)&lt;/span&gt;在&lt;span style=&quot;&quot;&gt;事件發生的年數、&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;CCI&lt;/span&gt;變數是否存在顯著差異" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-      <mxGeometry x="421.5" y="2207" width="268.5" height="63" as="geometry" />
+      <mxGeometry x="421.5" y="1861" width="268.5" height="63" as="geometry" />
     </mxCell>
     <mxCell id="74BORgZHTZT5-mNW4bi9-5" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; text-align: left; background-color: transparent;&quot;&gt;(對應&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;20241220 BGW out&lt;font&gt;put&amp;nbsp;-&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;outcomex &lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Table1&lt;/span&gt;&lt;font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-      <mxGeometry x="419.5" y="2383" width="269.5" height="30" as="geometry" />
+      <mxGeometry x="419.5" y="2037" width="269.5" height="30" as="geometry" />
     </mxCell>
     <mxCell id="74BORgZHTZT5-mNW4bi9-28" value="&lt;font&gt;&lt;span style=&quot;font-size: 12px; text-align: left; background-color: transparent;&quot;&gt;(對應&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left; background-color: transparent;&quot;&gt;20241219 BGW output -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;outcomex&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Table1&lt;/span&gt;&lt;font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-      <mxGeometry x="-385" y="2391" width="260.5" height="30" as="geometry" />
+      <mxGeometry x="-385" y="2045" width="260.5" height="30" as="geometry" />
     </mxCell>
   </root>
 </mxGraphModel>
